@@ -1,1 +1,1 @@
-# mini-calender
+# mini-calendar
